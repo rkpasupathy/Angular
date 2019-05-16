@@ -1,0 +1,24 @@
+
+.thumbnail{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    float: left;
+    
+}
+
+.description{
+    background-color: chocolate;
+    height: 100px;
+    width: 92%;
+    float: right;
+    position: relative
+}
+
+.info{
+    background-color: rgb(219, 214, 209);
+    height: 100px;
+    width: 100%;
+    position: relative;
+    
+}
